@@ -1,5 +1,6 @@
 """
 Finds the sum of all the multiples of 3 or 5 below 1000.
+
 """
 
 def multiple_3_or_5 (number):
