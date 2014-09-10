@@ -34,7 +34,7 @@ print calcE(4000000)
 
 def fib(n):
     """
-    I like this one. A little Python magic. 
+    I like this one. A little Python magic.
     """
 #returns first # in Fib. sequence to have n digits
 
